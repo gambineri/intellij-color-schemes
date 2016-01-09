@@ -3,6 +3,6 @@ Personalised color schemes for Intellij-IDEA
 
 ## Installation
 
-Download `.icls` and copy it into the `colors/` directory in the IntelliJ preferences folder.
+Download the `.icls` of your choice and copy it into the `colors/` directory in the IntelliJ preferences folder, then restart IntelliJ and select the new scheme by going to `Preferences | Editor | Colors & Fonts`.
 
-After installation of the color scheme restart IntelliJ and then select the new scheme by going to `Preferences | Editor | Colors & Fonts`.
+
