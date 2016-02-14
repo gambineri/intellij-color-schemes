@@ -95,7 +95,8 @@
     </option>
     <option name="DEFAULT_TAG">
       <value>
-        <option name="BACKGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f7f7f7" />
       </value>
     </option>
     <option name="DIFF_DELETED">
@@ -197,6 +198,7 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="88" />
+        <option name="BACKGROUND" value="f7f7f7" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
@@ -289,10 +291,25 @@
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
       </value>
     </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="444444" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="107a5c" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="BACKGROUND" value="f7f7f7" />
+      </value>
+    </option>
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="272cd0" />
-        <option name="BACKGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="f7f7f7" />
       </value>
     </option>
   </attributes>
